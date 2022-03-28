@@ -11,7 +11,6 @@
   inputs.src-omni-master.ref   = "refs/heads/master";
   inputs.src-omni-master.owner = "vitreo12";
   inputs.src-omni-master.repo  = "omni";
-  inputs.src-omni-master.dir   = "";
   inputs.src-omni-master.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";
