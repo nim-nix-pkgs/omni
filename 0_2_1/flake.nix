@@ -11,6 +11,7 @@
   inputs.src-omni-0_2_1.ref   = "refs/tags/0.2.1";
   inputs.src-omni-0_2_1.owner = "vitreo12";
   inputs.src-omni-0_2_1.repo  = "omni";
+  inputs.src-omni-0_2_1.dir   = "";
   inputs.src-omni-0_2_1.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";

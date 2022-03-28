@@ -11,6 +11,7 @@
   inputs.src-omni-develop.ref   = "refs/heads/develop";
   inputs.src-omni-develop.owner = "vitreo12";
   inputs.src-omni-develop.repo  = "omni";
+  inputs.src-omni-develop.dir   = "";
   inputs.src-omni-develop.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";
